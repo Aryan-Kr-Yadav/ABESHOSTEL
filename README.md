@@ -24,6 +24,6 @@ This project provides an interactive platform for students to explore hostel fac
 
 - **HTML5** – Structure  
 - **CSS3** – Styling & layout  
-- - **JavaScript (Vanilla JS)** – Interactivity  
+-  **JavaScript (Vanilla JS)** – Interactivity  
 
 ---
